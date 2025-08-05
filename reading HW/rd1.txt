@@ -1,0 +1,42 @@
+The chapter talks about the financial crisis and explains how can it be a failure of prediction. There are some issues like excessive leverage and unrealistic expectations of returns which exacerbate the financial crisis. There are several things I learned new. An interesting issue is about the range of data. People may use outdated data to predict the future. I agree with the author's idea about the outdated data. More is not better sometimes. He thinks more data may even harm us because it makes us overestimate our understanding of the world and the precise forecasts under more data may make us believe it is accurate. 
+I think the biggest challenge for economics is the object it researches on revolves too fast. It is not like physicals, chemistry, or even biology, which focus on a stable object, their data can come over centuries and the research results can even be extrapolated to millions of years before and later. The economy changes faster than economics. We do not know whether the phenomenon in 10 years ago is still useful to explain the causal effect mechanism in the current market. That requires economists to have one of the strongest capacities over all disciplines to deal with data under different scenarios and consider some different mechanisms hidden behind those data. I think the foundation of dealing with time series data is to have a robust mechanism to decide how much data is really useful for us, what data we should use, and why.  The U.S. may learn more from Japan than their smart grandparents about how to judge the financial crisis.
+
+
+
+
+Below are just notes
+The author thinks financial crisis is a failure of prediction.
+Investments that were rated as being almost completely safe instead turned out to be almost completely unsafe.
+Moody’s, S&P, and Fitch
+no way for investors to verify the accuracy of their ratings until it was too late, the agencies had little incentive to compete on the basis of quality. ratings quality was the least important factor driving the company's profits.
+S&P provided the issuers with copies of their ratings software. This made it easy for the issuers to determine exactly how many bad mortgages they could add to the pool without seeing its rating decline.(reach the threshold of danger)
+
+CDO
+alpha to epsilon bets. If you make the wrong assumptions, your model may be extraordinarily wrong.
+Alpha is safe under independent assumption: very safe. Exact likely: 5%: 160,000 times riskier than you had thought.
+
+the ratings agencies' problem was in being unable or uninterested in appreciating the distinction between risk and uncertainty
+Uncertainty, on the other hand, is risk that is hard to measure.
+
+the financial crisis as a failure of prediction can be told in three acts: before, before and during, aftermath
+
+The rate of return had been less in a century than the stock market typically produces in a single year.
+the people buying the homes had completely unrealistic assumptions about what their investments might return.
+Leverage too high, almost 0 ability to face decline.
+appetite for mortgage-backed securities
+There is a credible and trustworthy agent to make you believe the very risky product you bought is not a lemon. 
+by looking at the AAA ratings for the securities and not at the subprime quality of the collateral, Lehman had bought a lemon.
+
+A simple example of why and how negative feedback can benefits free market economy even price increase cause demand decrease.
+If the price of one house increases, it may make the other houses seem more attractive rather than less.
+Greed and fear balance.
+
+Huge impact on employment but underestimate its effect, making the fiscal policy fail to do what we expect.
+
+
+four major failures of prediction that accompanied the financial crisis.(p43)
+financial crises are different !!!  The events these forecasters were considering were out of sample. 0 examples can be used to forecase your accident risk of drunk driving. We need to consider how many data we have and what data we should use. More is not better sometimes.
+
+Precise forecasts masquerade as accurate ones, 
+
+

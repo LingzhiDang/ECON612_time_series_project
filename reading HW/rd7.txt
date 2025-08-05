@@ -1,0 +1,31 @@
+In this week's reading, I gained valuable insights into the history and modeling of infectious disease prediction. A key discussion revolves around whether predictive models should be more detailed or simplified. The author still doesn't provide a definitive answer, acknowledging that it depends on the context. I agree—while simpler models work well in physics-based fields like weather forecasting, complex systems like economics or disease spread often require models with more variables to capture real-world dynamics. I also appreciated the author referencing one of my favorite quotes: "All models are wrong, but some models are useful." This highlights the trade-off between accuracy and practicality in modeling and the fact that model is a way to capture the world instead of "creating" a world.
+
+Additionally, the reading explores how media coverage of medical conditions makes people more aware of their symptoms, linking this to economic models. For example, in theory, the Solow model predicts economic growth based on savings rates. As financial awareness increases, the model's predictive power may increase. On the other hand, In economies where people purchasing equivalent rather than save in banks, the savings rate may no longer indicate economic trends as reliably.
+
+
+
+Flu
+If they suddenly had to produce a vaccine that guarded against H1N1, they would need to get started immediately.
+
+Self-Fulfilling and Self-Canceling Predictions
+predictions about human activity, the very act of prediction can alter the way that people behave.
+more a particular condition is on people’s minds and the more it’s a current topic of discussion, the closer the reporting gets to 100 percent.
+
+Simplicity Without Sophistication
+how much detail is too much—or too little? 
+
+How the Models Failed at Fort Dix
+reality of spreading is not random.
+speaks to the limitations of models that make overly simplistic assumptions. Still, while simplicity can be a virtue for a model, a model should at least be sophisticatedly simple.
+
+SimFlu
+model with complex interrelationships and numerous datas.
+Model cannot check itself. 
+
+How to Proceed When Prediction Is Hard
+epidemiologists were strongly aware of the limitations of their models. 
+More risks than economists
+“All models are wrong, but some models are useful.”
+model is a tool to help us understand the complexities of the universe, and never a substitute for the universe itself
+This is why it is so crucial to develop a better understanding of ourselves, and the way we distort and interpret the signals we receive, if
+we want to make better predictions. The first half of this book has largely been concerned with where these approximations have been serving us well and where they’ve been failing us. The rest of the book is about how to make them better, a little bit at a time.

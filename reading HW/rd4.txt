@@ -1,0 +1,67 @@
+This chapter focuses on the forecast in weather prediction. I learned about how supercomputers improve the forecast and how human vision and experience make the computer's results even better. The author attributes the improvement to many factors. I think what distinguishes it from poor forecasting in other realms is the scientific model behind it. The object of meteorology is relatively stable under a physical model. I agree with the author's ideas that an experienced weather forecaster can use his/her experience to correct a computer's forecast. However, I think that, besides experience, a robust model with good quantification is necessary. Many terrible forecasts about the economy may be attributed to the weakness or absence of a robust quantized model.  Under the frame of Newton's physics as a foundation, a forecaster can practice it in work and make a good quantitative intinction between variables and use that understanding to improve the computer's rigid model.  I do not think economics has created any both general and robust model in explaining economic activities. It is even hard for some trained economists to know the direction of the effect of one variable to another so definitely not the magnitude. Without a good model, supercomputers will fail to make good predictions and forecasters cannot have a clear and rationable way to gradually improve their understanding of the economy to facilitate forecasts.
+
+Moreover, I agree with the author's ideas that  It is forecasting's original sin to put politics, personal glory, or economic benefit before the truth of the forecast, many examples he stated proved that. It reminds me of what the author said. In economic forecasts, besides economic benefits, more subjective things like ideology always exist, which makes the calibration and the cooperation between PC and economists not as good as meteorologists.  More severely, economic forecasts have numerous economic incentives so "wet bias" can exist anywhere. Social media influencer's forecasts of the economy are even less reliable than speakers who appeal to a partisan audience. Thus, I believe academia should take more responsibility and try to create an environment where people are able to be objective and stay out of politics and benefits. Academic freedom did a good job but not enough. Also, more detailed models should be invented and reinvented to capture the various dynamic phenomena in the economy. 
+
+
+CHAPTER 4
+
+precise forecast of hurricane Katrina:
+Nor does a forecast do much good if there is no one willing to listen to it. The story of Katrina is one of human ingenuity and human error.
+
+meteorology is a field in which there has been considerable improved forecast, majorly because of supercomputer.
+Could we make perfect weather predictions? Or is there a degree of randomness inherent in the weather as well?
+Laplace’s Demon or Heisenberg's uncertainty principle?
+
+Purely statistical predictions about the weather have long been possible(no physics/chemistry)
+Compute the weather has long lagged behind our theoretical understanding of it, however. We know which equations to
+solve and roughly what the right answers are, but we just aren’t fast enough to calculate them.
+
+taking advantage of our strong theoretical understanding of how the system behaves, rather than relying on a crude statistical approximation.
+But, while computing power has improved exponentially in recent decades, progress in the accuracy of weather forecasts has been steady but slow. (2 times more accurate for 8 years improvement in PC)
+What could possibly go wrong?
+
+Chaos theory:
+A small change in initial conditions produce a large and unexpected divergence in outcomes.
+These small changes, introduced intentionally in order to represent the inherent uncertainty in the quality of the observational data, turn the deterministic forecast into a probabilistic one.
+Humans' judgement can make the computer forecasts better or they can make them worse.
+
+The Vision Thing
+What is it, exactly, that humans can do better than computers?
+Ans: Sorts of distinctions that forecasters glean over time as they learn to workaround the flaws in the model
+eyesight: a visual inspection of a graphic showing the interaction between two variables is often a quicker and more reliable.
+The best forecasters need to think visually and abstractly while at the same time being able to sort through the abundance of information the computer provides them with.
+
+What Makes a Forecast Good?
+TWC’s forecasts oriented more toward the needs of a typical consumer.
+how to develop algorithms that translate raw weather data into everyday verbiage.
+
+what is a “better” forecast?
+accuracy
+honesty(the best one the forecaster was capable of at the time)
+economic value(need to decide which ones to put on the front page.)
+Accuracy and honesty should converge when we have the right incentives. But sometimes we do not.
+
+Not all of which is within your immediate control. There is always room to ask yourself what objectives you had in mind when you made your decision.
+
+
+When Competition Makes Forecasts Worse
+The further out in time these models go, the less accurate they turn out to be.
+That's because once the atmosphere has had enough time to circulate, the weather patterns bear so little resemblance to their starting positions that the models don’t do any good.
+It’s not merely that there is no longer a signal amid the noise, but that the noise is being amplified. (By PC)
+flip a coin and round up to 60, or down to 40, even though this makes the forecasts both less accurate and less honest.
+"Wet bias"
+
+
+Calibration
+sort of high-frequency forecasting enable the forecasters to get lots of feedback on whether they’re doing something wrong
+and can change course accordingly. 
+once you are alert to this bias(by PC) you can correct for it. Likewise, you will soon learn if your forecasts are overconfident.
+TV meteorologists weren’t placing much emphasis on accuracy. They care only about funs. 
+Since the public doesn’t think our forecasts are any good anyway, why bother with being accurate?
+public does not believe them ==>No accurate forecast ==> public will not listen to them ==>
+
+The Cone of Chaos
+The Hurricane Center and the Hurricane Center alone issues hurricane forecasts, and it needs those forecasts to be as accurate and honest as possible, avoiding any potential distractions.
+One lesson from Katrina, however, is that accuracy is the best policy for a forecaster. It is forecasting’s original sin to put politics, personal glory, or economic benefit before the truth of the forecast.
+It may not be a concidence that, in contrast to all the forecasting failures in this book, theirs have become 350 percent more accurate in the past twenty-five years alone.
+

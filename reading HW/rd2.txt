@@ -1,0 +1,36 @@
+This chapter introduces a fascinating analogy that was new to me: the fox and the hedgehog, applied to the world of forecasting. The central idea is that we should strive to be foxes, as foxes recognize that there is no simple, static mechanism behind the causality of variables used for forecasting. Foxes excel at gathering diverse information and assigning appropriate weights to it. They do not rely on constant parameters and are willing to adapt their models when necessary. The author outlines several principles characteristic of the fox’s mindset, and I find these ideas compelling. Perhaps the most valuable traits of foxes are their awareness of their own limitations in understanding chaotic economic systems and their recognition of the boundaries of rationality. Foxes thrive on absorbing more information, carefully evaluating assumptions, and staying alert to ideological biases that might cloud objectivity.
+However, I don’t believe hedgehogs should be dismissed outright. The author acknowledges that qualitative factors can also play a significant role in forecasting. Many fundamental concepts or measurement variables, such as GDP, are often proposed by hedgehog-like thinkers who strongly believe in the underlying laws governing phenomena. Their desire for the mechanism encourages them to dig into the essential part of economic activities and consider some of the values as an economic index. Once these innovative indexes are shared, they provide others with a new perspective for understanding the economy. In this sense, both foxes and hedgehogs contribute uniquely to the advancement of forecasting.
+
+
+
+
+The experts in his survey— regardless of their occupation, experience, or subfield—had done barely any better than random chance, and they had done worse than even rudimentary statistical methods at predicting future political events.
+
+“The fox knows many little things, but the hedgehog knows one big thing.“
+Hedgehog: Big Ideas—in governing principles about the world that behave as though they were physical laws and undergird virtually every interaction in society
+Fox: believe in a plethora of little ideas and in taking a multitude of approaches toward a problem. They tend to be more tolerant of nuance, uncertainty, complexity, and dissenting opinion. 
+foxes happen to make much better predictions. They are quicker to recognize how noisy the data can be, and they are less inclined to chase false signals. They know more about what they don't know.
+Hedgehog believe
+More information maybe bad for them.  manipulate information in ways that confirm their biases	
+
+A Fox-Like Approach to Forecasting
+1.Probability
+Polls of primaries are considerably less accurate
+A Senate candidate with a five-point lead on the day before the election, for instance, has historically won his race about 95 percent of the time. Things need to be considered under its probability.
+2.Today's Forecast Is the First Forecast of the Rest of Your Life
+Another misconception is that a good prediction shouldn’t change.
+The critiques usually rely, implicitly or explicitly, on the notion that politics is analogous to something like physics or biology, abiding by fundamental laws that are intrinsically knowable and predicable. however, electoral forecasting resembles something like poker.
+failing to change our forecast because we risk embarrassment by doing so—that reveals a lack of courage.
+3: Look for Consensus
+Even though foxes, myself included, aren’t really a conformist lot, we get worried anytime our forecasts differ radically from those being produced by our competitors. Fox will aggregate different types of information together—as a group of people with different ideas about the world naturally would.
+
+Beware Magic-Bullet Forecasts
+Models that take a more fox-like approach, combining economic data with polling data and other types of information, have produced more reliable results. 
+DO NOT BELIEVE audacious models that utilize only few variables to try to forecast. 
+
+Weighing Qualitative Information
+foxes who have practice in weighing different types of information together can sometimes benefit from accounting for qualitative along with quantitative factors.
+Whether information comes in a quantitative or qualitative flavor is not as important as how you use it.
+
+It Isn’t Easy to Be Objective
+The way to become more objective is to recognize the influence that our assumptions play in our forecasts and to question ourselves about them. 

@@ -1,0 +1,64 @@
+Section 6 backs to economic topics and is more related to economic forecasting issues. He recaps what he said about how good forecasters should be . They should be indifferent to everything else, like wealth and reputation, except accuracy of forecasting. He said that forecasters should be aware of something like probability and forecasting interval to guarantee their forecasting is accurate. However, for economic forecast, the reality may even lie outside the forecasting interval. I agree with the author that the economic system is harder to predict because not only is the system a dynamic system, but also the "trigger" of the change is not clear in the economy. 2 economic indicators can interact with each other. It is happy to see that the author admits the meanings of economic theory and attributes some of the progress in forecasting as the results of development of people's understanding of people's decision-making process. Based on the author's ideas about correlation and causality, we can think of he meanings of economic theory as facilitating people to distinguish correlation and causality among thousands of economic indicators, which avoids overfitting issues.  A new thing I learned is Goodhart's law. I think a brief reason of this proposition is the reserve of the causality. When the government takes care of the unemployment, the unemployment becomes the reason of acting policy but not the result of acting policy. I saw some economic research about how "public program", "military investment", and "culture shock" as exogenous variables impact the local economy. Based on this law, we may suspect the exogeneity of those shocks since they may be endogenously triggered by the economy itself. 
+  
+
+
+HOW TO DROWN IN THREE FEET OF WATER
+Most of the time when an economic prediction is presented, however, only a single number is mentioned.
+minor deviation from the prediction are common in coverage of the economy
+
+The Importance of Communicating Uncertainty
+The forecasters later told researchers that they were afraid the public might lose confidence in the forecast if 16:30 2025/3/16they had conveyed any uncertainty in the outlook.
+
+Are Economists Rational?
+If I asked you to forecast the total that will be produced when you roll a pair of six-sided dice, the correct answer is not any single number but an enumeration of possible outcomes and their respective probabilities. The economists in the Survey of Professional Forecasters are asked to do something similar.
+If the economists’ forecasts were as accurate as they claimed, we’d expect the actual value for GDP to fall within their prediction interval nine times out of ten (LLN?). In reality they fail half times. 
+Results like these are the rule; experts either aren’t very good at providing an honest description of the uncertainty in their forecasts, or they aren't very interested in doing so.
+
+Nobody Has a Clue
+Correlations Without Causation
+Too much economic indicator ==> over fitting. 
+A strange correlation between baseball game and stock.
+
+Although economists might not take the Super Bowl indicator seriously, they can talk themselves into believing that other types of variables— anything that has any semblance of economic meaning—are critical“leading indicators” foretelling a recession or recovery months in advance.
+It's much harder to find something that identifies the signal;
+ice cream sales and forest fires are correlated because both occur more often in the summer heat. But there is no causation; 
+P180. example of unemployment. 
+Consumer confidence
+
+An Economic Uncertainty Principle
+Goodhart's law: once policy makers begin to target a particular variable, it may begin to lose its value as an economic indicator.
+Most statistical models are built on the notion that there are independent variables and dependent variables, inputs and outputs, and they can be kept pretty much separate from one another. When it comes to the economy, they are all lumped together in one hot mess.
+
+An Ever-Changing Economy
+Don't Throw Out Data
+A forecaster should almost never ignore data, especially when she is studying rare events like recessions or presidential elections.
+Ignoring data is often a tip-off that the forecaster is overconfident, or is overfitting her model—that she is interested in showing off rather than trying to be accurate. (not agree with it)
+throwing out data is that there has been some sort of fundamental shift in the problem you are trying to solve. Sometimes these arguments are valid to a certain extent. (yes) The problem with this is that you never know when the next paradigm shift will occur But anticipating these turning points is not easy.
+
+Economic Data Is Very Noisy
+Butterfly effect
+the economy, like the atmosphere, is a dynamic system;
+Second, weather forecasts are subject to uncertain initial conditions.
+causality in economy is more complex than in air.
+ this chain of cause and effect as a “story.” 
+This kind of statement is becoming more common in the age of Big Data. Who needs theory when you have so much information? But this is categorically the wrong attitude to take toward forecasting, especially in a field like economics where the data is so noisy. (nice to see the author's appreciation to theoretical works)
+
+When Biased Forecasts Are Rational
+Either of these reputational concerns potentially distracts you from the goal of making the most honest and accurate forecasts. (what the author said before)
+
+Overcoming Bias
+If we want to reduce these biases, we influence the supply and demand side of biased forecast.
+-we don't actually have that much of a demand for accurate forecasts.
+-talking economic substance.
+
+	
+
+
+ 
+
+
+
+
+
+
+

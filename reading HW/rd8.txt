@@ -1,0 +1,36 @@
+This week’s reading explores how gamblers assess risks and make decisions, particularly by focusing on subtle details that others may overlook. They use these small but meaningful signals to continuously update their beliefs about the gamble, refining their judgments over time. The author also discusses the serious issue of false positives in research, highlighting how misleading conclusions can arise when statistical methods are misapplied. Most importantly, it talks about the history and philosophy of Bayesian statistics, which is not familiar to me. 
+
+I learned the contributions of Fisher to classical statistics and how his ideas contrasted with the Bayesian framework. I also learned about the origins of Bayes’ theorem and found it remarkable that Bayes, despite being a religious figure, developed a theorem that fundamentally challenges the existence of the God (except you believe the probability of having God is 100%) and supports scientific modeling. The Bayesian perspective treats all knowledge as conditional, emphasizing that our understanding should be continuously updated as new evidence emerges.
+
+I find Bayes' theorem particularly compelling because it aligns with the essence of scientific inquiry. Unlike classic statistical models, Bayesian reasoning embraces uncertainty, change, and limited recognition of pattern, making it a powerful tool for refining predictions and understanding the world. It is also a way to let science avoid Hume’s skepticism and explain the reason of doing science. 
+
+A gamble on NBA, Laker.
+How Good Gamblers Think
+When their estimates of these probabilities diverge by a sufficient margin from the odds on offer, they may place a bet.
+13% vs 25%
+he doesn’t have a big secret. Instead, he has a thousand little secrets.
+He observes might seem trivial. And in a sense, they are: the big and obvious edges will have been noticed by other gamblers, and will be reflected in the betting line. So he needs to dig a little deeper.
+Determining whether the patterns represent noise or signal ---- Bayesian reasoning.
+
+Probability and Progress
+Bayes' theorem is concerned with conditional probability. That is, ittells us the probability that a theory or hypothesis is true if some event has happened.
+Some weird examples.
+This is not to suggest that our priors always dominate the new evidence, however, or that Bayes theorem inherently produces
+counterintuitive results. Sometimes, the new evidence is so powerful that it overwhelms everything else, and we can go from assigning a near-zero probability of something to a near-certainty of it almost instantly.
+Update continuously as new evidence presents itself to us.
+
+The Problem of False Positives
+
+When Statistics Backtracked from Bayes
+Essentially, the frequentist approach toward statistics seeks to wash its hands of the reason that predictions most often go wrong: human error. It views uncertainty as something intrinsic to the experiment rather than something intrinsic to our ability to understand the real world.
+
+Data Is Useless Without Context
+But perhaps the bigger problem is the way that Fisher's statistical philosophy tends to conceive of the world. It emphasizes the objective purity of the experiment—every hypothesis could be tested to a perfect conclusion if only enough data were collected. However, in order to achieve that purity, it denies the need for Bayesian priors or any other sort of messy real-world context. These methods neither require nor encourage us to think about the plausibility of our hypothesis:
+Fisherian statistical methods do not encourage us to think about which correlations imply causations and which ones do not.
+
+The Bayesian Path to Less Wrongness
+In fact, there is nothing prohibiting you under Bayes’s theorem from holding beliefs that you believe to be absolutely true.
+One property of Bayes’s theorem, in fact, is that our beliefs should converge toward one another—and toward the truth.
+In theory, science should work this way. The notion of scientific consensus is tricky, but the idea is that the opinion of the scientific community converges toward the truth as ideas are debated and new evidence is uncovered.
+Bayes’s theorem predicts that the Bayesians will win.
+

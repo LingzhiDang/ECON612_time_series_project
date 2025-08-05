@@ -1,0 +1,52 @@
+This chapter explores seismology, highlighting its challenges with overfitting and the absence of a strong theoretical model. The failure of earthquake prediction can largely be attributed to our limited understanding of plate movement beneath the Earth's surface. I agree with the author that the inability to forecast earthquakes stems, in part, from the lack of a scientific model and the inability to directly observe underground activity.
+
+Overfitting makes it hard to distinguish real data from noise. The author explains how mistaken signals spread misinformation, delaying scientific progress. This issue is even worse in economics—if GDP were never an accurate measure, economic theory would be in crisis. While past models shaped the field, they also imposed constraints.
+
+The theory of complexity is new to me, but I had similar thoughts. Economic agents are far more complex than a sand so they has much more complex relations. Due to the lack of understanding individuals, constructing a larger economic framework seems impossible. However,  I share the author’s optimism. Seismology is refining its models, and economics is evolving. Our grasp of economic systems today is far stronger than before the Great Depression. Those models can fail in some extent. Just as George E. P. Box said: "All models are wrong, but some are useful."
+
+
+
+DESPERATELY SEEKING SIGNAL
+the prediction failed for the first time, but right in the next.
+
+Hough thinks Giuliani’s success was merely coincidental.
+there are scores of other [incorrect] predictions that the public never hears about.
+the science of earthquake forecasting seems barely to have evolved since the ninth century
+“They do not know how, and they do not expect to know how any time in the foreseeable future.”
+The seismological community has a reputation for being very conservative. It was very slow to accept the theory of plate tectonics.
+In seismology, prediction is a definitive. Forecast is a probabilistic statement.
+
+What We Know About How Earthquakes Behave
+Gutenberg–Richter law.
+Something that obeys this distribution has a highly useful property: you can forecast the number of large-scale events from the number of small-scale ones, or vice versa
+
+The Temptation of the Signal
+Holy Grail of seismology—are time-dependent forecasts, those in which the probability of an earthquake is not assumed to be constant across time.
+Complicating matters further are false alarms—periods of increased seismic activity that never result in a major tremor.
+Not quite random and not quite predictable. But the historical record of attempts to predict earthquakes is one of almost complete failure.
+
+A Parade of Failed Forecasts
+Lima, Peru: fake forecasts of huge earthquake.
+Parkfield, California: Not a regular happen things. 
+rate does not change much over time regardless of how long it has been since the last one.
+Mojave Desert, California: a series of eight equations's effect not is not clear.
+Sumatra, Indonesia: highly mathematically driven and used medium-size earthquakes to predict major ones.
+
+Between a Rock and a Hard Place
+BOWMAN reexamined his model and decided his approach to predicting earthquakes was fundamentally flawed and gave up on it.
+Chaos theory is a demon that can be tamed—weather forecasters did so, at least in part. But weather forecasters have a much better theoretical understanding of the earth’s atmosphere than seismologists do of the earth’s crust. They know, more or less, how weather works, right down to the molecular level. Seismologists don’t have that advantage.
+Without that theoretical understanding, seismologists have to resort to purely statistical methods to predict earthquakes. You can create a statistical variable called “stress” in your model, as Bowman tried to do. But since there’s no way to measure it directly, that variable is still just expressed as a mathematical function of past earthquakes. Bowman thinks that purely statistical approaches like these are unlikely to work.
+What happens in systems with noisy data and underdeveloped theory—like earthquake prediction and parts of economics and political science—is a two-step process. First, people start to mistake the noise for a signal. Second, this noise pollutes journals, blogs, and news accounts with false alarms, undermining good science and setting back our ability to understand how the system really. works.
+
+Overfitting: The Most Important Scientific Problem You’ve Never Heard Of
+the name given to the act of mistaking noise for a signal is overfitting.
+You’ve given me an overly specific solution to a general problem. This is overfitting, and it leads to worse predictions.
+reasons why we may be prone to overfitting the model since it scores better according to most of the statistical tests that forecasters use.
+
+Limits 
+It may be that there are intrinsic limits on the predictability of earthquakes.
+The theory of complexity: very simple things can behave in strange and mysterious ways when they interact with one another.
+
+	
+
+

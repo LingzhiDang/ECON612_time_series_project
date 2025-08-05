@@ -1,0 +1,32 @@
+Section 3 is an interesting but unfamiliar topic for me. In this section, the story starts with a misprediction of Pedroia. I learned that baseball is a type of sport that relies a lot on data and statistical forecasting. Reports and statistical systems are essential in the game of baseball because the trade of players includes millions of dollars each time. Those reports are highly demanded. Also, the information and statistical system evolves rapidly due to the ample information and the huge profits included in that. People have tried a lot to have different forecasting models and information systems because almost all the value is created by the scouting process. Such profitable and competitive industry forces the best forecasters must constantly innovate. I agree with the author's ideas that the key for the scouts is to develop tools and habits so that they are more often looking for ideas and information in the right places. I also agree with Sanders's effort to overcome the traditional five tools. He translates qualitative information into quantitative information and does not limit his sights on good players in the existing categories. Again, This section corresponds to what the author had talked: predictions with more data are likely to improve decision-making, but uncertainty and limitations in models persist. One must try to have as many insights as possible to suspect the model and make progress on variables used in the forecasting model. 
+
+Intro
+Separate out skill from luck
+What a well-designed forecasting system can do is sort out which statistics are relatively more susceptible to luck.
+time series trend: aging curve
+nerds vs. elders
+
+The Biases of Scouts and Statheads
+One of the most pernicious ones is to assume that if something cannot easily be quantified, it does not matter.
+And yet amateur scouts (and any statistical system designed to emulate them) are expected to do exactly this(forecast the vocation of high school students)
+
+Beyond the Five Tools
+Statistics, indeed, have been a part of the fabric of baseball since the very beginning.
+5 tools have different importance. Some unincluded measurements are also important.
+Are those tools converted into usable skills? 
+5 physical tools/skills:
+
+Information Is the Name of the Game
+"What defines a good scout? Finding out information that other people can’t,” he told me. “Getting to know the kid. Getting to know the family. There’s just some things that you have to find out in person.”
+Almost all the value is created by the scouting and development process.
+The litmus test for whether you are a competent forecaster is if more information makes your predictions better.
+ translate qualitative information into quantitative information.
+
+Why Pedroia Was Predicted to Fail 
+When we have trouble categorizing something, we’ll often overlook it or misjudge it.
+
+How James Beat the Odds
+
+The key is to develop tools and habits so that you are more often
+looking for ideas and information in the right places—and in honing the
+skills required to harness them into W’s and L’s once you’ve found them
