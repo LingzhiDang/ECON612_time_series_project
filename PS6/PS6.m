@@ -41,7 +41,7 @@ grid on;
 % grid on;
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%3
+%3
 T = length(sp.date);
 time = (1:T)';
 %one=ones(T);

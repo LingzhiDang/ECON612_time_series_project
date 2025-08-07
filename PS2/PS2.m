@@ -1,6 +1,5 @@
 clear all
 clc
-cd('C:\Users\dangl\Desktop\ECON 612\PS2');
 gdp=readtable("realgdpgrowth.xlsx"); 
 
 %1a
